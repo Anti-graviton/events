@@ -27,7 +27,7 @@ It's your turn to follow it and develop an extension.
 
 **Wed 9:00 - 11:00** Research and Setup
 
-**11:00AM - 16:30** Develop
+**11:00 - 16:30** Develop
 
 **16:30 - 17:30** Demo and Feedback
 
